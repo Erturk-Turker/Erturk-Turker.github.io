@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ertürk Gürbüz | Gayrimenkul Danışmanı</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background: #0f172a;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+}
+img {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+h1 { margin: 10px 0 5px; }
+p { color: #cbd5f5; }
+
+a.button {
+    display: block;
+    background: #2563eb;
+    color: #fff;
+    padding: 14px;
+    margin: 12px auto;
+    width: 90%;
+    max-width: 360px;
+    text-decoration: none;
+    border-radius: 12px;
+    font-weight: bold;
+}
+a.secondary {
+    background: #1e293b;
+}
+</style>
+</head>
+
+<body>
+
+<img src="https://via.placeholder.com/300" alt="Ertürk Gürbüz">
+
+<h1>Ertürk Gürbüz</h1>
+<p>Gayrimenkul Danışmanı</p>
+<p>Kazançlı yatırımlar, doğru lokasyonlar, güvenilir danışmanlık.</p>
+
+<a class="button" href="erturk-gurbuz.vcf">📇 Rehbere Kaydet</a>
+<a class="button" href="tel:05365514785">📞 Ara</a>
+<a class="button" href="https://wa.me/905365514785">💬 WhatsApp</a>
+
+<a class="button secondary" href="https://www.instagram.com/hangiyatirimiyapmali">📸 Instagram</a>
+<a class="button secondary" href="https://www.youtube.com/@HangiYat%C4%B1r%C4%B1m%C4%B1Yapmal%C4%B1">▶️ YouTube</a>
+
+</body>
+</html>

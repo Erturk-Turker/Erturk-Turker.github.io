@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Gürbüz;Ertürk
+FN:Ertürk Gürbüz
+ORG:Gayrimenkul Danışmanı
+TITLE:Gayrimenkul Danışmanı
+TEL;TYPE=CELL:05365514785
+TEL;TYPE=WHATSAPP:05365514785
+URL:https://www.instagram.com/hangiyatirimiyapmali
+URL:https://www.youtube.com/@HangiYat%C4%B1r%C4%B1m%C4%B1Yapmal%C4%B1
+END:VCARD
